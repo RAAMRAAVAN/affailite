@@ -1,0 +1,13 @@
+::placeholder { /* Chrome, Firefox, Opera, Safari 10.1+ */
+    color: white;
+    opacity: 1; /* Firefox */
+    text-decoration: none;
+  }
+.whatToBuyInput:focus{
+    outline: none;
+    box-shadow: none;
+    border: none;
+    caret-color: white;
+    color: white;
+    text-decoration: underline;
+}

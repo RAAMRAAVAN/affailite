@@ -1,0 +1,1 @@
+export const SECTION_INPUTS  = "SECTION_INPUTS "
